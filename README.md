@@ -1,3 +1,4 @@
+![Capture d’écran (231)](https://github.com/saidakounnache/Les-probl-mes-de-localisation/assets/99035340/1d5298ae-2396-4453-8385-86cf5395d786)
 # Les-problèmes de localisation
 Les problèmes de localisatio à l'aide de gurobipy et jupyter notebook
 La science de la localisation est un domaine riche et nécessaire, qui rassemble une grande variété de problèmes.
